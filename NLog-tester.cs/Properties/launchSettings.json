@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NLog-tester.cs": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
